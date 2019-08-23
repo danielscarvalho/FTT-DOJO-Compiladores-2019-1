@@ -28,6 +28,7 @@ public class DojoLex {
 		// TODO Criar tabela de lexemas
 		
 		//System.getProperty("user.dir");
+		
 		File file = new File(".....jquery-3.4.1.js"); 
 		  
 		  BufferedReader br = new BufferedReader(new FileReader(file)); 
